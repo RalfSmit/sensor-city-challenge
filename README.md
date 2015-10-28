@@ -1,6 +1,6 @@
 # Linux installation 
 
-git clone https://github.com/rodolfo-picoreti/sensor-city
+git clone https://github.com/rodolfo-picoreti/sensor-city-challenge.git
 cd sensor-city
 sudo apt-get install nodejs
 sudo npm install -g babel
